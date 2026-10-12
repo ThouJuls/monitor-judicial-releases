@@ -1,6 +1,1 @@
-{
-  "version": "0.1.1",
-  "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/InstalarMonitorJudicial.exe",
-  "sha256": "3db41357880cedd055ddd1ebd5a06fb273b3e0abd09c0ac2c4d5390f621ca31e",
-  "notas": ""
-}
+{"version": "0.2.1", "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/InstalarMonitorJudicial.exe", "sha256": "34bcb1675c878ad04b981a2f9036eabf72b8027ee8318ed331bf40084862196d", "notas": "Mejor manejo de errores del portal de la Rama (502) y lectura del expediente digital"}
