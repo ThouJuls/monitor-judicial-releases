@@ -1,1 +1,16 @@
-{"version": "0.5.0", "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/InstalarMonitorJudicial.exe", "sha256": "382da8144a5b432345e0b075e7a12963117cfbd0b2543769a601448ebd57cea0", "notas": "Avisos de Windows cuando una consulta automatica encuentra una actuacion reciente o un termino nuevo (aunque el programa este cerrado), consultas 3 veces al dia, eliminar procesos, divisoria ajustable y credito del autor"}
+{
+  "version": "0.6.0",
+  "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/actualizacion.bin",
+  "formato": "cifrado-1",
+  "sal": "143da72d2fdfbd51e715e207e40b8b70",
+  "sha256_paquete": "ae62ef3cf9d5b542661840977cb96744dfdd5e22e0563fb7325eda1a3ee3c789",
+  "sha256_instalador": "d70cf4be6f08bfe3ffd4328852034b9b07fc15f6e51404cd7f95af1a4d75ea7a",
+  "licencias": [
+    {
+      "id": "4cef8e30ebab65ad",
+      "w": "83a182c44185f0eaa127586c5c14bb916f1f1a85a8d2009de9def061634e42a2",
+      "t": "7555423ce581c5d1693a50d74d837d747a767cf8a1ad1c299a857a66ced617fe"
+    }
+  ],
+  "notas": "Actualizaciones cifradas con licencia (Ajustes > General > Clave de licencia), avisos de Windows y canal de actualizacion separado del codigo fuente"
+}
