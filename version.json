@@ -1,16 +1,32 @@
 {
-  "version": "0.6.0",
+  "version": "0.8.0",
   "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/actualizacion.bin",
   "formato": "cifrado-1",
-  "sal": "143da72d2fdfbd51e715e207e40b8b70",
-  "sha256_paquete": "ae62ef3cf9d5b542661840977cb96744dfdd5e22e0563fb7325eda1a3ee3c789",
-  "sha256_instalador": "d70cf4be6f08bfe3ffd4328852034b9b07fc15f6e51404cd7f95af1a4d75ea7a",
+  "sal": "d103be85b996d9ce76ad1fc68b7f2d53",
+  "sha256_paquete": "746bc395a9f8e315d45c42f3bd32e6edfd50ca95befebbc62e56f7795f26727c",
+  "sha256_instalador": "aa19b5c3c2258431db53b02376a30f28a37292018a8f5772cecffbf30cb2d16d",
   "licencias": [
     {
       "id": "4cef8e30ebab65ad",
-      "w": "83a182c44185f0eaa127586c5c14bb916f1f1a85a8d2009de9def061634e42a2",
-      "t": "7555423ce581c5d1693a50d74d837d747a767cf8a1ad1c299a857a66ced617fe"
+      "w": "211ad597889cab022e23fa221efffef199b7b2d800b8a383c4d7cdd1dac2897c",
+      "t": "eec214ff3bbb7c7618ab022ba909a57f1d96803d03dc51d87a45801681bf05e1"
     }
   ],
-  "notas": "Actualizaciones cifradas con licencia (Ajustes > General > Clave de licencia), avisos de Windows y canal de actualizacion separado del codigo fuente"
+  "revocadas": [],
+  "notas": "",
+  "mac": {
+    "version": "0.8.0",
+    "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/actualizacion-mac.bin",
+    "formato": "cifrado-1",
+    "sal": "181f0fa91d561cce38cc092cee8f5270",
+    "sha256_paquete": "f2c028d80456dbeae5d1729dce6ba64bc6f3926af88af97a5992eef9dcba0cb0",
+    "sha256_instalador": "12f599aa4bc269a3d0df6d0b869845d65160d9301945f134b2bd4653222d7deb",
+    "licencias": [
+      {
+        "id": "4cef8e30ebab65ad",
+        "w": "fa63452e531441b4ab449d523627a74f36c5d2a5ae1bc42cef385377e855f8d2",
+        "t": "46c78f8ffdb5ec72146e435e6ebb1ff464eaff08eccfad66f28ee42c17877f26"
+      }
+    ]
+  }
 }
