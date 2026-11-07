@@ -1,15 +1,20 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/actualizacion.bin",
   "formato": "cifrado-1",
-  "sal": "d103be85b996d9ce76ad1fc68b7f2d53",
-  "sha256_paquete": "746bc395a9f8e315d45c42f3bd32e6edfd50ca95befebbc62e56f7795f26727c",
-  "sha256_instalador": "aa19b5c3c2258431db53b02376a30f28a37292018a8f5772cecffbf30cb2d16d",
+  "sal": "4168ced82eaebf76f859b304f274f6b4",
+  "sha256_paquete": "3dbfb2e85ae39b6ebb7b2ca487329f4e93461fa855a6543d2a3544fb3d3a7abf",
+  "sha256_instalador": "033daa35695bb5b17237adde7bd70c702a040cb860656a5420b8b80dacc21cc7",
   "licencias": [
     {
+      "id": "d90c7f12beed167b",
+      "w": "03a67ade0bcb3507cdce97d408f790bb50aa47b0031d5f0b727d962747234a36",
+      "t": "283d2e474a683d3446eb81bd094778513732191d3dcbbeb9778b2fdfa6494ae6"
+    },
+    {
       "id": "4cef8e30ebab65ad",
-      "w": "211ad597889cab022e23fa221efffef199b7b2d800b8a383c4d7cdd1dac2897c",
-      "t": "eec214ff3bbb7c7618ab022ba909a57f1d96803d03dc51d87a45801681bf05e1"
+      "w": "4da536493f71888a8921f487720290e26fd907d7560af98b9a29cd953615f564",
+      "t": "57ccd0e5e175ece18850d030b1cc54bb8b4973b0f6a09a0057f2b6fc0a7075f3"
     }
   ],
   "revocadas": [],
