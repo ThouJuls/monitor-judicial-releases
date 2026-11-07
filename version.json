@@ -20,17 +20,22 @@
   "revocadas": [],
   "notas": "",
   "mac": {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "url": "https://github.com/ThouJuls/monitor-judicial-releases/releases/latest/download/actualizacion-mac.bin",
     "formato": "cifrado-1",
-    "sal": "181f0fa91d561cce38cc092cee8f5270",
-    "sha256_paquete": "f2c028d80456dbeae5d1729dce6ba64bc6f3926af88af97a5992eef9dcba0cb0",
-    "sha256_instalador": "12f599aa4bc269a3d0df6d0b869845d65160d9301945f134b2bd4653222d7deb",
+    "sal": "d317a48be54d861a11213342ebf9ac55",
+    "sha256_paquete": "5e6a26d82e1b87f6a7ee49aacf6ed785e008578ad1c1d000b7f10bb6f069c550",
+    "sha256_instalador": "8b19a3a7821a8c4e044317f548b7e967fc26f65f2305570bbefd2acb04213f6c",
     "licencias": [
       {
+        "id": "d90c7f12beed167b",
+        "w": "8b3e7dc2b4148fc4f677d68c2954fd2a3f5901f25edbb9e1c1f734d16d8aa1f8",
+        "t": "322809b7b4c1705bd6dd2683515703ed756d5569af0edb5f81452bd0f2f83175"
+      },
+      {
         "id": "4cef8e30ebab65ad",
-        "w": "fa63452e531441b4ab449d523627a74f36c5d2a5ae1bc42cef385377e855f8d2",
-        "t": "46c78f8ffdb5ec72146e435e6ebb1ff464eaff08eccfad66f28ee42c17877f26"
+        "w": "280fe151963da2c5ef1804c3513c9eb34febe0a17a4fbcc2372edf323c21cd77",
+        "t": "6c08f75177f135e4e2abb554e288085d2fd1e66187e503cd914dee3fc0a4e91b"
       }
     ]
   }
